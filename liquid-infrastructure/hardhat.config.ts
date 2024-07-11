@@ -1,6 +1,7 @@
 import { HardhatUserConfig, vars } from "hardhat/config";
 import "@nomicfoundation/hardhat-toolbox";
 import "@nomicfoundation/hardhat-ethers";
+import "@nomicfoundation/hardhat-foundry";
 
 // The following are set using `npx hardhat vars set <KEY>` and then the value is a prompt for a secret.
 // I provide a default value so that the call does not fail for regular hardhat network usage

@@ -18,3 +18,4 @@ Testing relies on the use of [HardHat](https://hardhat.org/) and `contract-deplo
 The tests should use [Chai](https://www.chaijs.com/) with the [ethereum-waffle extensions](https://ethereum-waffle.readthedocs.io/en/latest/).
 
 Define tests in the `test/` folder and then run `npm run test` to run them.
+# Liquid
